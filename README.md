@@ -1,5 +1,7 @@
 # Ansible Role: PostgreSQL
 
+> **[FORK]** This is a fork of [dirkcaumueller/ansible-role-postgresq](https://github.com/dirkcaumueller/ansible-role-postgresq). We contribute improvements back upstream, but publish our own tags (based on `main`) and publish the role to Ansible Galaxy as well.
+
 [![Build Status](https://travis-ci.org/dirkcaumueller/postgresql.svg?branch=master)](https://travis-ci.org/dirkcaumueller/ansible-role-postgresql)
 
 Installs and configures PostgreSQL v12 server on RHEL/CentOS servers.
